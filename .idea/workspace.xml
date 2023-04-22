@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d7a9825-7b8c-4350-b3c0-0e5254163bca" name="Default Changelist" comment="" />
+    <list default="true" id="2d7a9825-7b8c-4350-b3c0-0e5254163bca" name="Default Changelist" comment="&quot;Gyan Astra&quot;">
+      <change afterPath="$PROJECT_DIR$/Gyan Astra Doc.pdf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +38,16 @@
       <option name="presentableId" value="Default" />
       <updated>1682145293466</updated>
       <workItem from="1682145295806" duration="455000" />
+      <workItem from="1682145754965" duration="824000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;Gyan Astra&quot;">
+      <created>1682145944892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682145944892</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -52,8 +63,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="&quot;Gyan Astra&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Gyan Astra&quot;" />
   </component>
 </project>
