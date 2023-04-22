@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "180746277417",
+    "project_id": "gyan-astra",
+    "storage_bucket": "gyan-astra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180746277417:android:3803addd14aa57b68bc238",
+        "android_client_info": {
+          "package_name": "com.crypto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180746277417-1300haeibjbmgebuqmbj3a8timksduin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crypto",
+            "certificate_hash": "703eda00e96855cdc7bdb89d50c71016272921a0"
+          }
+        },
+        {
+          "client_id": "180746277417-3c1j28v9d2ug3pudgrr28n1e1fe8nmcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLqgIqkJjT9xVJcMIiakANruBjCRIZ4vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180746277417-3c1j28v9d2ug3pudgrr28n1e1fe8nmcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
