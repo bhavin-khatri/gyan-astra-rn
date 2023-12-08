@@ -1,10 +1,7 @@
 import React, {Component} from 'react';
 import {Image, StyleSheet, Text, TouchableOpacity, View} from 'react-native';
-import {strings} from './Strings';
-import {Utils} from './Utils';
-import Images from './Images';
-import Colors from './Colors';
-import Fonts from './Fonts';
+import Colors from '../assests/styles/Colors';
+import Fonts from '../assests/styles/Fonts';
 import {goBack, reset} from './RootNavigation';
 
 export class MainContainer extends Component {

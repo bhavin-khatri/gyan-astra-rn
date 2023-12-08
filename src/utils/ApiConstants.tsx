@@ -114,7 +114,7 @@ export namespace DESCRIPTION {
   export const KEY_STOCK_1 =
     '• Stock markets are venues where buyers and sellers meet to exchange equity shares of public corporations.';
   export const KEY_STOCK_2 =
-    '• Stock markets are components of a free-market economy because they enable democratized access to investor trading and exchange of capital.';
+    '• Stock markets are screens of a free-market economy because they enable democratized access to investor trading and exchange of capital.';
   export const KEY_STOCK_3 =
     '• Stock markets create efficient price discovery and efficient dealing.';
 
@@ -130,17 +130,17 @@ export namespace DESCRIPTION {
     '• As with other cryptos such as Bitcoin, Pi was designed to undergo regular ‘halving’ to protect its scarcity. Halving is when the number of coins a miner receives for processing new transactions is reduced by half. This usually occurs when a certain milestone is reached.';
   export const KEY_PI_2 =
     '• PI’s mining rate halved from 1.6 π to 0.8 π an hour when it reached 100,000 users, halved again to 0.4 π an hour when it reached 1 million, and halved again to 0.2 π when it reached 10 million users. The rewards will continue to halve, reaching zero when the network reaches 1 billion users';
-  export const WHAT_IS_NFT = 'What Is the NFT Astra?';
+  export const WHAT_IS_NFT = 'What Is the nft Astra?';
   export const NFT_DESC =
-    'NFT means non-fungible tokens (NFTs), which are generally created using the same type of programming used for cryptocurrencies. In simple terms these cryptographic assets are based on blockchain technology. They cannot be exchanged or traded equivalently like other cryptographic assets.\n' +
+    'nft means non-fungible tokens (NFTs), which are generally created using the same type of programming used for cryptocurrencies. In simple terms these cryptographic assets are based on blockchain technology. They cannot be exchanged or traded equivalently like other cryptographic assets.\n' +
     '\n' +
-    'Like Bitcoin or Ethereum. The term NFT clearly represents it can neither be replaced nor interchanged because it has unique properties. Physical currency and cryptocurrency are fungible, which means that they can be traded or exchanged for one another.';
+    'Like Bitcoin or Ethereum. The term nft clearly represents it can neither be replaced nor interchanged because it has unique properties. Physical currency and cryptocurrency are fungible, which means that they can be traded or exchanged for one another.';
   export const KEY_NFT_1 =
-    '• Digital Asset - NFT is a digital asset that represents Internet collectibles like art, music, and games with an authentic certificate created by blockchain technology that underlies Cryptocurrency.';
+    '• Digital Asset - nft is a digital asset that represents Internet collectibles like art, music, and games with an authentic certificate created by blockchain technology that underlies Cryptocurrency.';
   export const KEY_NFT_2 =
     '• Unique - It cannot be forged or otherwise manipulated';
   export const KEY_NFT_3 =
-    '• Exchange - NFT exchanges take place with cryptocurrencies such as Bitcoin on specialist sites';
+    '• Exchange - nft exchanges take place with cryptocurrencies such as Bitcoin on specialist sites';
   export const WHAT_IS_CRYPTO = 'What Is the Crypto Astra?';
   export const CRYPTO_DESC =
     "Cryptocurrency is a digital payment system that doesn't rely on banks to verify transactions. It’s a peer-to-peer system that can enable anyone anywhere to send and receive payments. Instead of being physical money carried around and exchanged in the real world, cryptocurrency payments exist purely as digital entries to an online database describing specific transactions. When you transfer cryptocurrency funds, the transactions are recorded in a public ledger. Cryptocurrency is stored in digital wallets.\n" +
@@ -171,7 +171,7 @@ export namespace SERVICE_DATA {
 }
 
 export namespace OTHER_ASTRAS {
-  export const NFT_ASTRA = 'NFT Astra';
+  export const NFT_ASTRA = 'nft Astra';
   export const CRYPTO_ASTRA = 'Crypto Astra';
   export const PI_ASTRA = 'PI Astra';
   export const STOCK_ASTRA = 'Stock Astra';

@@ -1,9 +1,7 @@
 import {BASE_URL2, USER_SAVED} from './ApiConstants';
 import {Component} from 'react';
-import {format} from 'date-fns';
 import moment from 'moment';
 import {Alert, AsyncStorage, ToastAndroid} from 'react-native';
-import axios from 'axios';
 
 export class Utils extends Component {
   static getConvertAmount(amount, decimalPoint) {
@@ -11,7 +9,7 @@ export class Utils extends Component {
     return roundedNum.toFixed(decimalPoint);
   }
 
-  static getUrl(endpoint) {
+  static getUrl(endpoint: string) {
     let url = BASE_URL2 + endpoint;
     return url;
   }
